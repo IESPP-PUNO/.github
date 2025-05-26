@@ -25,7 +25,10 @@ Este perfil está destinado a:
 
 ## 🙋‍♂️ ¿Quién gestiona este espacio?
 
-Este espacio es gestionado por el equipo institucional del IESPP Puno. Si tienes dudas o sugerencias, puedes contactarnos a través de los canales oficiales del instituto.
+Este espacio es gestionado por **Rodrigo Bernardo Condori Gutierrez**, miembro del Instituto de Educación Superior Pedagógico Público Puno. Si tienes dudas, sugerencias o deseas colaborar, puedes comunicarte conmigo directamente a través de mi perfil en GitHub:
+
+- 👤 [GitHub](https://github.com/RodrigoCG1281)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rodrigobernardocg) 
 
 ---
 
